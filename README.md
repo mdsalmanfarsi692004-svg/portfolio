@@ -1,6 +1,6 @@
 # 🚀 Md Salman Farsi | AI & Data Portfolio
 
-Welcome to my official portfolio. This repository hosts my personal website, showcasing my journey as an **AI & Machine Learning Specialist** and **Data Analyst**.
+Welcome to my official portfolio. This repository hosts my personal website, showcasing my journey as an **AI & Machine Learning Enthusiast** and **Data Analyst**.
 
 ## 🔗 Live Portfolio Link
 👉 **[Click Here to Visit My Live Portfolio](https://mdsalmanfarsi692004-svg.github.io/portfolio/)**
@@ -14,15 +14,15 @@ I am an AI enthusiast driven by the goal of solving real-world business problems
 
 - 🔭 **Currently working on:** End-to-End ML Pipelines & Predictive Modeling
 - 👯 **Looking for:** Opportunities in Data Analytics & AI Engineering
-- 💬 **Ask me about:** Python, Machine Learning, Power BI, TensorFlow
+- 💬 **Ask me about:** Python, Machine Learning, Power BI
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL, R
-- **AI/ML:** TensorFlow, Scikit-Learn, Pandas, NumPy
-- **Visualization:** Power BI, Tableau, Matplotlib
-- **Tools:** Git, GitHub, Streamlit, Jupyter
+- **Programming:** Python, SQL (MySQL)
+- **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Power BI, MS Excel, Streamlit, Jupyter Notebook, Git, GitHub
+- **Competencies:** Machine Learning, Predictive Modeling, Data Visualization, Statistical Analysis, Model Deployment
 
 ---
 
